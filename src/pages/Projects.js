@@ -34,7 +34,7 @@ function Projects() {
                     <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
                         <strong>Technologies Used:</strong> React, Node.js, PostgreSQL, supabase,vercel, Fly.io
                     </p>
-                    <a href="https://file-sharing-website-vuzt.vercel.app/" style={{ color: "#00aaff", textDecoration: "none" }}>View Project</a>
+                    <a href="https://file-sharing-website-five.vercel.app/" style={{ color: "#00aaff", textDecoration: "none" }}>View Project</a>
                 </section>
 
             </main>
