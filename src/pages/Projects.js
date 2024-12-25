@@ -36,6 +36,16 @@ function Projects() {
                     </p>
                     <a href="https://file-sharing-website-five.vercel.app/" style={{ color: "#00aaff", textDecoration: "none" }}>View Project</a>
                 </section>
+                <section style={{ marginBottom: "50px" }}>
+                    <h2 style={{ fontSize: "2rem", marginBottom: "20px", color: "#00aaff" }}>AI Quote Machine</h2>
+                    <p style={{ fontSize: "1.2rem", marginBottom: "15px" }}>
+                        A website to generate random quotes based on the user's mood.It involves integration of gemini api.
+                    </p>
+                    <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
+                        <strong>Technologies Used:</strong> React, Node.js, vercel, gemini api,bootstrap
+                    </p>
+                    <a href="https://ai-quote-machine.vercel.app/" style={{ color: "#00aaff", textDecoration: "none" }}>View Project</a>
+                </section>
 
             </main>
         </div>
