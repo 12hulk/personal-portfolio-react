@@ -63,7 +63,7 @@ function Contact() {
                         <strong>Email:</strong> <a href="" style={{ color: "#00aaff" }}>dilpreetd88@gmail.com</a>
                     </p>
                     <p style={{ fontSize: "1.2rem", color: "#aaa" }}>
-                        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dilpreet-si96/" style={{ color: "#00aaff" }} target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/dilpreet-singh-8905161ab/</a>
+                        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dilpreet-si96/" style={{ color: "#00aaff" }} target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/dilpreet-si96/</a>
                     </p>
                     <p style={{ fontSize: "1.2rem", color: "#aaa" }}>
                         <strong>GitHub:</strong> <a href="https://github.com/12hulk" style={{ color: "#00aaff" }} target="_blank" rel="noopener noreferrer">https://github.com/12hulk</a>
