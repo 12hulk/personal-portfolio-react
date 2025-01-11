@@ -18,8 +18,8 @@ function Projects() {
                 <section style={{ marginBottom: "50px" }}>
                     <h2 style={{ fontSize: "2rem", marginBottom: "20px", color: "#00aaff" }}>Assignment Tracker</h2>
                     <p style={{ fontSize: "1.2rem", marginBottom: "15px" }}>
-                        Collaborated in a team to build a web app enabling students to track and manage assignments.
-                        Integrated a local database for storing assignment data securely.
+                        Collaborated in a team to build a web app enabling students to track and manage assignments.<br></br>
+                        Integrated a local database for storing assignment data securely.<br></br>
                     </p>
                     <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
                         <strong>Technologies Used:</strong>  HTML, CSS, JS (frontend), PHP & AJAX (backend)
@@ -30,10 +30,10 @@ function Projects() {
                 <section style={{ marginBottom: "50px" }}>
                     <h2 style={{ fontSize: "2rem", marginBottom: "20px", color: "#00aaff" }}>File Sharing Website</h2>
                     <p style={{ fontSize: "1.2rem", marginBottom: "15px" }}>
-                        Developed a secure hosting platform allowing users to create temporary profiles, upload files, and access them across devices.
-                        Optimized user experience for seamless file sharing without the need for external storage devices.
-                        Equipped with download and Delete features.
-                        Result: Enabled efficient and secure file sharing for users.
+                        Developed a secure hosting platform allowing users to create temporary profiles, upload files, and access them across devices.<br></br>
+                        Optimized user experience for seamless file sharing without the need for external storage devices.<br></br>
+                        Equipped with download and Delete features.<br></br>
+                        Result: Enabled efficient and secure file sharing for users.<br></br>
                     </p>
                     <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
                         <strong>Technologies Used:</strong> React (frontend), Node.js (backend), Supabase (database), Vercel (hosting)
@@ -43,9 +43,9 @@ function Projects() {
                 <section style={{ marginBottom: "50px" }}>
                     <h2 style={{ fontSize: "2rem", marginBottom: "20px", color: "#00aaff" }}>AI Quote Machine</h2>
                     <p style={{ fontSize: "1.2rem", marginBottom: "15px" }}>
-                        Created an interactive app to generate mood-based quotes using the Gemini API.
-                        More like a fun app.
-                        Integrated dynamic animations for a polished user experience.
+                        Created an interactive app to generate mood-based quotes using the Gemini API.<br></br>
+                        More like a fun app.<br></br>
+                        Integrated dynamic animations for a polished user experience.<br></br>
                     </p>
                     <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
                         <strong>Technologies Used:</strong> React (with Framer Motion), Gemini API, Vercel (hosting),bootstrap
