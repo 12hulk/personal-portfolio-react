@@ -18,10 +18,11 @@ function Projects() {
                 <section style={{ marginBottom: "50px" }}>
                     <h2 style={{ fontSize: "2rem", marginBottom: "20px", color: "#00aaff" }}>Assignment Tracker</h2>
                     <p style={{ fontSize: "1.2rem", marginBottom: "15px" }}>
-                        A web application for the school project designed to help students track their assignments, deadlines, and progress. Built using HTML, CSS, JavaScript, PHP, and AJAX, this project emphasizes efficient task management and user-friendly interface.
+                        Collaborated in a team to build a web app enabling students to track and manage assignments.
+                        Integrated a local database for storing assignment data securely.
                     </p>
                     <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
-                        <strong>Technologies Used:</strong> HTML, CSS, JavaScript, PHP, AJAX
+                        <strong>Technologies Used:</strong>  HTML, CSS, JS (frontend), PHP & AJAX (backend)
                     </p>
                 </section>
 
@@ -29,20 +30,25 @@ function Projects() {
                 <section style={{ marginBottom: "50px" }}>
                     <h2 style={{ fontSize: "2rem", marginBottom: "20px", color: "#00aaff" }}>File Sharing Website</h2>
                     <p style={{ fontSize: "1.2rem", marginBottom: "15px" }}>
-                        A file-sharing platform where users can upload, share, and manage their files. Developed with React, Node.js, PostgreSQL, and front-end deployed on vercel whereas backend on Fly.io with supabase Storage.
+                        Developed a secure hosting platform allowing users to create temporary profiles, upload files, and access them across devices.
+                        Optimized user experience for seamless file sharing without the need for external storage devices.
+                        Equipped with download and Delete features.
+                        Result: Enabled efficient and secure file sharing for users.
                     </p>
                     <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
-                        <strong>Technologies Used:</strong> React, Node.js, PostgreSQL, supabase,vercel, Fly.io
+                        <strong>Technologies Used:</strong> React (frontend), Node.js (backend), Supabase (database), Vercel (hosting)
                     </p>
                     <a href="https://file-sharing-website-five.vercel.app/" style={{ color: "#00aaff", textDecoration: "none" }}>View Project</a>
                 </section>
                 <section style={{ marginBottom: "50px" }}>
                     <h2 style={{ fontSize: "2rem", marginBottom: "20px", color: "#00aaff" }}>AI Quote Machine</h2>
                     <p style={{ fontSize: "1.2rem", marginBottom: "15px" }}>
-                        A website to generate random quotes based on the user's mood.It involves integration of gemini api.
+                        Created an interactive app to generate mood-based quotes using the Gemini API.
+                        More like a fun app.
+                        Integrated dynamic animations for a polished user experience.
                     </p>
                     <p style={{ fontSize: "1rem", marginBottom: "15px", color: "#aaa" }}>
-                        <strong>Technologies Used:</strong> React, Node.js, vercel, gemini api,bootstrap
+                        <strong>Technologies Used:</strong> React (with Framer Motion), Gemini API, Vercel (hosting),bootstrap
                     </p>
                     <a href="https://ai-quote-machine.vercel.app/" style={{ color: "#00aaff", textDecoration: "none" }}>View Project</a>
                 </section>
